@@ -1,7 +1,3 @@
-Great! Here's a sample `README.md` tailored for your project that includes a `requirements.txt` and `Exercise.ipynb` (which contains the training script). This will help showcase your project cleanly on GitHub:
-
----
-
 ```markdown
 # Transformer Model Training Notebook
 
