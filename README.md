@@ -1,18 +1,18 @@
-```markdown
+
 # Transformer Model Training Notebook
 
 This repository contains a training pipeline for a transformer-based model using Hugging Face's `transformers` library. The training is implemented in a Jupyter Notebook (`Exercise.ipynb`) and can be run on both CPU and GPU (NVIDIA CUDA supported).
 
 ## 📁 Project Structure
 
-```
 
+```
 .
 ├── Exercise.ipynb       # Jupyter notebook with training scripts
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project overview
+```
 
-````
 
 ## 🚀 Features
 
@@ -26,7 +26,7 @@ This repository contains a training pipeline for a transformer-based model using
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-````
+
 
 2. **Create and activate a virtual environment**
 
@@ -65,10 +65,6 @@ You should see GPU usage under `nvidia-smi` when running training cells.
   ```bash
   nvidia-smi
   ```
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
