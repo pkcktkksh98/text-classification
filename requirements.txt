@@ -1,0 +1,9 @@
+datasets 
+evaluate 
+transformers[sentencepiece]
+tf-keras
+torch
+scipy
+scikit-learn
+accelerate
+transformers[torch]
